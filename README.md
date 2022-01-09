@@ -4,13 +4,13 @@ Inspired by Pat O'Neil, Betty O'Neil, Xuedong Chen, check [https://www.cs.umb.ed
 for more information on the Star Schema Benchmark used. All the tests were done on the Postgres command terminal locally.
 
 
-The Star Schema Model from the paper was modified :
+The Star Schema Model from the paper was modified :<br>
 ![SSB Model](https://github.com/databs1/SSB/blob/master/SSB.PNG?raw=true)
 
-UML class diagram of the Data Vault Model : 
+UML class diagram of the Data Vault Model : <br>
 ![Data Vault Model](https://github.com/databs1/SSB/blob/master/Data_vault_SSB.png?raw=true)
 
-UML class diagram of the Anchor Model : 
+UML class diagram of the Anchor Model : <br>
 ![Anchor Model](https://github.com/databs1/SSB/blob/master/AnchorModel.PNG?raw=true)
 
 
